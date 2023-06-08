@@ -104,4 +104,3 @@ time.sleep(8)
 
 # Cerrar el controlador de Chrome y el navegador
 driver.close()
-
